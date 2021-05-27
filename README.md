@@ -1,3 +1,5 @@
+#### The lastest version of molmil is available from https://pdbj.org/molmil2/ and https://gitlab.com/pdbjapan/molmil
+
 # Molmil
 
 Molmil is a WebGL based molecular viewer which can load various formats including PDB, mmCIF and PDBML. Molmil can display small to large structures in high quality as well as scale up to extremely large structures as found in the PDB.
