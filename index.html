@@ -67,6 +67,11 @@
       var hash = window.location.hash ? window.location.hash.substr(1) : "";
       if (hash) cli.environment.console.runCommand(decodeURI(hash));
       
+      // avcdsld
+      molmil.disableContextMenu = false;
+      molmil.configBox.BGCOLOR = [0.0, 0.0, 0.0, 1.0];
+      molmil.updateBGcolor();
+
       molmil.bindCanvasInputs(canvas);
       
     }
