@@ -78,6 +78,7 @@
   display: none;
 }
 .molmil_popup_inner {
+  display: none;
   position: relative;
   top: -50%;
   left: -50%;
